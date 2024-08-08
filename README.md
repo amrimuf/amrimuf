@@ -1,12 +1,12 @@
 # Hi there 👋
 
-<div style="text-align: center;">
-  <table style="margin-left: auto; margin-right: auto;">
+<div align="center">
+  <table>
   <tr>
     <td><a href="https://amrimuf.com"><img src="blog-og.png" alt="amrimuf.com" width="500"/></a></td>
   </tr>
   <tr>
-    <td>↑↑↑ <a href="https://amrimuf.com">Visit my blog</a> ↑↑↑</td>
+    <td align="center">↑↑↑ <a href="https://amrimuf.com">Visit my blog</a> ↑↑↑</td>
   </tr>
 </table>
 </div>
