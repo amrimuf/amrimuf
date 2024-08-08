@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there 👋
+
+| ![amrimuf.com](blog-og.png) |
+|:--:|
+| ↑↑↑ [Visit my blog](https://amrimuf.com) ↑↑↑ |
 
 <!--
 **amrimuf/amrimuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
