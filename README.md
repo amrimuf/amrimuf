@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<div align="center">
+<div>
   <table>
   <tr>
     <td><a href="https://amrimuf.com"><img src="blog-og.png" alt="amrimuf.com" width="500"/></a></td>
