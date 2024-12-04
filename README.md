@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 > 📦 199.2 kB Used in GitHub's Storage 
  > 
-> 🏆 369 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 15 Public Repositories 
@@ -92,5 +90,5 @@ TeX                      1 repo              ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 03/12/2024 00:56:59 UTC
+ Last Updated on 04/12/2024 00:57:25 UTC
 <!--END_SECTION:waka-->
