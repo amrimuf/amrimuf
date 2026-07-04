@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<div>
+<!-- <div>
   <table>
   <tr>
     <td><a href="https://amrimuf.com"><img src="blog-og.png" alt="amrimuf.com" width="500"/></a></td>
@@ -9,7 +9,7 @@
     <td align="center">↑↑↑ <a href="https://amrimuf.com">Visit my blog</a> ↑↑↑</td>
   </tr>
 </table>
-</div>
+</div> -->
 
 <!--
 **amrimuf/amrimuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
